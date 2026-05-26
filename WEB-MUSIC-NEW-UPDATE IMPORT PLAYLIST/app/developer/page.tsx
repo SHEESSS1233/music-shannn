@@ -57,7 +57,7 @@ export default function DeveloperPage() {
               <Globe className="w-6 h-6 text-white" />
               <span className="text-[10px] text-white/70 font-medium">Website</span>
             </a>
-            <a href="https://whatsapp.com/channel/0029Vb6ukqnHQbS4mKP0j80L" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center justify-center gap-2 bg-[#1C1C1E] hover:bg-[#2C2C2E] p-4 rounded-2xl transition-colors">
+            <a href="https://whatsapp.com/channel/0029VbCcsJPDeONDOik3sk3H" target="_blank" rel="noopener noreferrer" className="flex flex-col items-center justify-center gap-2 bg-[#1C1C1E] hover:bg-[#2C2C2E] p-4 rounded-2xl transition-colors">
               <Tv className="w-6 h-6 text-white" />
               <span className="text-[10px] text-white/70 font-medium">Saluran</span>
             </a>
@@ -65,7 +65,7 @@ export default function DeveloperPage() {
               <Twitter className="w-6 h-6 text-white" />
               <span className="text-[10px] text-white/70 font-medium">X</span>
             </a>
-            <a href="#" className="flex flex-col items-center justify-center gap-2 bg-[#1C1C1E] hover:bg-[#2C2C2E] p-4 rounded-2xl transition-colors">
+            <a href="https://www.instagram.com/shan_b4nh?igsh=MW5mNGQycXIya2w4Ng==" className="flex flex-col items-center justify-center gap-2 bg-[#1C1C1E] hover:bg-[#2C2C2E] p-4 rounded-2xl transition-colors">
               <Instagram className="w-6 h-6 text-white" />
               <span className="text-[10px] text-white/70 font-medium">Instagram</span>
             </a>
@@ -73,7 +73,7 @@ export default function DeveloperPage() {
 
           {/* Buy me a coffee */}
           <a 
-            href="https://saweria.co/sannnforums"
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full max-w-sm flex items-center gap-4 bg-[#1C1C1E] hover:bg-[#2C2C2E] p-5 rounded-3xl transition-colors mb-8"
