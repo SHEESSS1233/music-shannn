@@ -156,7 +156,7 @@ export default function Home() {
           </Link>
           <Cast className="w-6 h-6" />
           <div className="w-8 h-8 rounded-full overflow-hidden flex items-center justify-center relative">
-            <Image src="https://c.top4top.io/p_379843wk01.jpg" alt="Developer Profile" fill sizes="32px" className="object-cover" />
+            <Image src="https://a.top4top.io/p_3799ncg721.jpg" alt="Developer Profile" fill sizes="32px" className="object-cover" />
           </div>
         </div>
       </div>
