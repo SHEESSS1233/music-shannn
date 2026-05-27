@@ -64,7 +64,7 @@ export default function DeveloperPage() {
           <p className="text-white/60 text-sm leading-relaxed max-w-sm mb-6">
             Platform streaming musik modern gratis tanpa iklan. Nikmati jutaan
             lagu, buat daftar putar Anda sendiri, dan temukan musik baru setiap
-            hari dengan kualitas audio premium tanpa batasan.
+            hari dengan kualitas audio premium tanpa batasan dan di dukung oleh #byNisaShaniaCantik.
           </p>
 
           {/* Social Links Grid */}
