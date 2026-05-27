@@ -65,7 +65,7 @@ export default function DeveloperPage() {
             Platform streaming musik modern gratis tanpa iklan. Nikmati jutaan
             lagu, buat daftar putar Anda sendiri, dan temukan musik baru setiap
             hari dengan kualitas audio premium tanpa batasan,Platform ini di
-            dukung oleh #byQueennia sehingga Platform ini hadir tanpa adanya
+            dukung oleh #Queennia sehingga Platform ini hadir tanpa adanya
             iklan dengan kualitas premium.
           </p>
 
