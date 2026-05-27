@@ -64,7 +64,7 @@ export default function DeveloperPage() {
           <p className="text-white/60 text-sm leading-relaxed max-w-sm mb-6">
             Platform streaming musik modern gratis tanpa iklan. Nikmati jutaan
             lagu, buat daftar putar Anda sendiri, dan temukan musik baru setiap
-            hari dengan kualitas audio premium tanpa batasan,Platform ini di
+            hari dengan kualitas audio premium tanpa batasan. Platform ini di
             dukung oleh #Queennia sehingga Platform ini hadir tanpa adanya
             iklan dengan kualitas premium.
           </p>
@@ -72,7 +72,7 @@ export default function DeveloperPage() {
           {/* Social Links Grid */}
           <div className="grid grid-cols-4 gap-3 w-full max-w-sm mb-4">
             <a
-              href="#"
+              href="https://music-shannn.vercel.app/"
               className="flex flex-col items-center justify-center gap-2 bg-[#1C1C1E] hover:bg-[#2C2C2E] p-4 rounded-2xl transition-colors"
             >
               <Globe className="w-6 h-6 text-white" />
